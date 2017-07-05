@@ -3,7 +3,7 @@
 
 int main(){
 	int s = sum(100)
-		print("%d\n",s);
+		printf("%d\n",s);
 	return 0;
 }
 
